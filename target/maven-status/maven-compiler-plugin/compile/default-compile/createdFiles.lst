@@ -1,7 +1,0 @@
-com\marinho\libraryapi\api\resource\BookController.class
-com\marinho\libraryapi\LibraryApiApplication.class
-com\marinho\libraryapi\api\dto\BookDTO.class
-com\marinho\libraryapi\api\model\entity\Book.class
-com\marinho\libraryapi\api\model\entity\Book$BookBuilder.class
-com\marinho\libraryapi\api\dto\BookDTO$BookDTOBuilder.class
-com\marinho\libraryapi\service\BookService.class

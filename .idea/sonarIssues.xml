@@ -23,7 +23,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/ApplicationControllerAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/dto/BookDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/exceptions/ApiErros.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/exceptions/BusinessException.java">
           <value>
             <set />
           </value>
@@ -34,6 +49,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/resource/BookController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/exception/BusinessException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/exceptions/ApiErros.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/exceptions/BusinessException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/model/entity/Book.java">
           <value>
             <set />
           </value>
@@ -49,6 +84,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/service/impl/BookServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marinho/libraryapi/api/exceptions/ApiErrors.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marinho/libraryapi/api/exceptions/ApiErros.java">
           <value>
             <set />
           </value>

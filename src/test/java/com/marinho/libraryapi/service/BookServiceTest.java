@@ -1,6 +1,6 @@
 package com.marinho.libraryapi.service;
 
-import com.marinho.libraryapi.api.model.entity.Book;
+import com.marinho.libraryapi.model.entity.Book;
 import com.marinho.libraryapi.model.repository.BookRepository;
 import com.marinho.libraryapi.service.impl.BookServiceImpl;
 import org.junit.jupiter.api.BeforeEach;

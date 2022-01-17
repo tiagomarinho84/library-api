@@ -1,4 +1,4 @@
-package com.marinho.libraryapi.api.model.entity;
+package com.marinho.libraryapi.model.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
