@@ -103,6 +103,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marinho/libraryapi/model/repository/BookRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/marinho/libraryapi/service/BookServiceTest.java">
           <value>
             <set />
