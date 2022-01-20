@@ -33,6 +33,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/dto/LoanDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/dto/LoanFilterDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/api/exceptions/ApiErros.java">
           <value>
             <set />
@@ -73,12 +83,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/model/entity/Loan.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/model/repository/BookRepository.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/service/BookService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/marinho/libraryapi/service/LoanService.java">
           <value>
             <set />
           </value>
@@ -99,6 +119,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/marinho/libraryapi/api/resource/BookControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/marinho/libraryapi/api/service/LoanService.java">
           <value>
             <set />
           </value>

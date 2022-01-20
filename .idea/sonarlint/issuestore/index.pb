@@ -1,3 +1,19 @@
 
 t
 Dsrc/test/java/com/marinho/libraryapi/LibraryApiApplicationTests.java,8\6\860d997180fba0b2074d14274ccd9ae894278b10
+u
+Esrc/main/java/com/marinho/libraryapi/exception/BusinessException.java,3\f\3f23a8bd619048e80dec5ce7b1381c7dd200e15f
+y
+Isrc/main/java/com/marinho/libraryapi/api/ApplicationControllerAdvice.java,b\7\b75dd5a1b911494fcb4f94ea15f68fb1e683f3e0
+q
+Asrc/main/java/com/marinho/libraryapi/api/exceptions/ApiErros.java,5\7\57877eb7639f80abc2007a13cb428fdd8605f4bb
+y
+Isrc/main/java/com/marinho/libraryapi/model/repository/BookRepository.java,f\f\ffb363d49d27971f7a7b91e7afabfd2fbe19cce8
+i
+9src/main/java/com/marinho/libraryapi/api/dto/BookDTO.java,0\4\04329fe8769579b5848f983a8d2677798918a6ce
+k
+;src/main/java/com/marinho/libraryapi/model/entity/Book.java,d\6\d63d901369bb9138979fd4bba42b13cf6d5c7d75
+q
+Asrc/test/java/com/marinho/libraryapi/service/BookServiceTest.java,e\4\e4227a9b959ab4cae76034563ae9f400f239f689
+}
+Msrc/test/java/com/marinho/libraryapi/model/repository/BookRepositoryTest.java,e\1\e12f27a0e05071fd0249c6012ffffdc2d3e92174
