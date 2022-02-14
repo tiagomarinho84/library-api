@@ -143,6 +143,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-catalogo-produtos/src/main/java/br/com/desktop/service/offers/InstallationAndAdhesionRuleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/build.gradle">
           <value>
             <set />
@@ -153,12 +158,122 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/controller/v1/SaleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/ClientRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/ContractRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/ContractsClientDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/GeolocationDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/InstallationInfoRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/InstallationInfraDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/PersonalDataRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/PlansRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/SaleRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/SaleResponseDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/SchedulingRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/dto/SpcRequestDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/model/Address.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/repository/AdditionalPlansRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/repository/AddressRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/repository/ContractAddressClientRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/repository/DocumentClientRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/repository/SchedulingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/service/AddressService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/service/ClientService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/service/ContractService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/service/ProtocolService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/main/java/br/com/desktop/service/SaleService.java">
           <value>
             <set />
           </value>
@@ -169,6 +284,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/test/java/br/com/desktop/AddressRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../desktop-backend-vendas/src/test/java/br/com/desktop/controller/SaleControllerTest.java">
           <value>
             <set />
           </value>
